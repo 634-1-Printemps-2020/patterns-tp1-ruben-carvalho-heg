@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b852990a-f2d1-44a1-be40-c4708cd82283" name="Default" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="b852990a-f2d1-44a1-be40-c4708cd82283" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/metier/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/metier/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/metier/PyRat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/metier/PyRat.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,16 +19,15 @@
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WOCP85YCR5J9gAWKAK1f72Igmt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -35,18 +38,6 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -103,14 +94,74 @@
       <workItem from="1578333857974" duration="239000" />
       <workItem from="1579190378689" duration="95000" />
       <workItem from="1579190584833" duration="16000" />
+      <workItem from="1582205710489" duration="47000" />
+      <workItem from="1582205882309" duration="277000" />
+      <workItem from="1582206515579" duration="7498000" />
+      <workItem from="1582216271695" duration="1432000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7724000" />
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="490" y="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582206683339">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="490" y="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1582206683339" />
+    <state width="402" height="438" key="DebuggerActiveHint" timestamp="1582209884645">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="402" height="438" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1582209884645" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1582217716359">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582217716359" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1582217716359">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1582217716359" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1582217716356">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1582217716356" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1582217716359">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1582217716359" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1582216094534">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582216094534" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1582216094534">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1582216094534" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1582216094534">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1582216094534" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1582216094534">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1582216094534" />
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1582216274156">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1582216274156" />
   </component>
   <component name="masterDetails">
     <states>
